@@ -1,6 +1,6 @@
 /* Global styles */
 .body-class {
-    background-color: #f31010; /* Light gray background */
+    background-color: #ffffff; /* Light gray background */
     font-family: Arial, sans-serif; /* Clean font */
     margin: 0;
     padding: 0;
@@ -34,7 +34,7 @@
 }
 
 .nav-class a:hover {
-    background-color: #0056b3; /* Darker blue when hovered */
+    background-color: #2e3133; /* Darker blue when hovered */
 }
 
 .nav-class a.active {
@@ -74,7 +74,7 @@
 
 /* Testimonial Section */
 .testimonial-section-class {
-    background-color: #f9f9f9;
+    background-color: #f9f9f900;
     padding: 30px;
     text-align: center;
 }
@@ -106,7 +106,7 @@
 
 .faq-question-class {
     font-size: 1.5em;
-    color: #007BFF;
+    color: #007bff52;
 }
 
 .faq-class p {
@@ -134,8 +134,8 @@
 }
 
 .button-class {
-    background-color: #28a745; /* Green button */
-    color: white;
+    background-color: #000000; /* Green button */
+    color: rgb(250, 5, 5);
     padding: 10px 20px;
     border: none;
     border-radius: 4px;
@@ -143,13 +143,13 @@
 }
 
 .button-class:hover {
-    background-color: #218838; /* Darker green on hover */
+    background-color: #fbfafa; /* Darker green on hover */
 }
 
 /* Contact Section */
 .contact-section-class {
     padding: 30px;
-    background-color: #e9ecef;
+    background-color: #ffffff;
 }
 
 .contact-section-class .label-class {
@@ -166,7 +166,7 @@
 /* Footer Section */
 .footer-class {
     background-color: #222;
-    color: white;
+    color: rgb(73, 2, 252);
     text-align: center;
     padding: 20px;
     position: relative;
