@@ -1,44 +1,43 @@
 /* Global styles */
 .body-class {
-    background-color: #ffffff; /* Light gray background */
-    font-family: Arial, sans-serif; /* Clean font */
+    background-color: #f0e9e9;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 /* Header Section */
 .header-class {
-    background-color: #333; /* Dark background */
-    color: white; /* White text */
+    background-color: #333;
+    color: white;
     padding: 20px;
     text-align: center;
 }
 
 .title-class {
-    font-size: 2.5em; /* Large title */
+    font-size: 2.5em;
     margin: 0;
 }
 
-/* Navigation */
 .nav-class {
-    background-color: #007BFF; /* Blue background */
+    background-color: #3a5b7d;
     padding: 10px;
     text-align: center;
 }
 
 .nav-class a {
-    color: white; /* White text */
+    color: white;
     text-decoration: none;
     padding: 10px 15px;
     margin: 0 10px;
 }
 
 .nav-class a:hover {
-    background-color: #2e3133; /* Darker blue when hovered */
+    background-color: #2e3133;
 }
 
 .nav-class a.active {
-    font-weight: bold; /* Bold active link */
+    font-weight: bold;
 }
 
 /* Hero Section */
@@ -49,18 +48,18 @@
 
 .section-title-class {
     font-size: 2em;
-    color: #2c3e50; /* Dark gray */
+    color: #2c3e50;
 }
 
 .text-class {
-    color: #333; /* Dark text color */
+    color: #333;
     line-height: 1.6;
     margin-bottom: 20px;
 }
 
 .image-class {
-    border: 5px solid #ddd; /* Light gray border */
-    border-radius: 8px; /* Rounded corners */
+    border: 5px solid #ddd;
+    border-radius: 8px;
     max-width: 100%;
     height: auto;
     margin-top: 20px;
@@ -134,16 +133,16 @@
 }
 
 .button-class {
-    background-color: #000000; /* Green button */
+    background-color: #000000;
     color: rgb(250, 5, 5);
-    padding: 10px 20px;
+    padding: 10px 20px; /* Fixed incomplete padding rule */
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
 
 .button-class:hover {
-    background-color: #fbfafa; /* Darker green on hover */
+    background-color: #fbfafa;
 }
 
 /* Contact Section */
