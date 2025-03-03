@@ -48,11 +48,11 @@
 
 .section-title-class {
     font-size: 2em;
-    color: #2c3e50;
+    color: #000000;
 }
 
 .text-class {
-    color: #333;
+    color: #4701fa;
     line-height: 1.6;
     margin-bottom: 20px;
 }
@@ -68,7 +68,7 @@
 /* Origin Section */
 .origin-section-class {
     padding: 20px;
-    background-color: #e2e2e2;
+    background-color: #070707;
 }
 
 /* Testimonial Section */
@@ -164,7 +164,7 @@
 
 /* Footer Section */
 .footer-class {
-    background-color: #222;
+    background-color: #ffffff;
     color: rgb(73, 2, 252);
     text-align: center;
     padding: 20px;
